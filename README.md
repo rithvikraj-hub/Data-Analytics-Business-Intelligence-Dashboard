@@ -1,16 +1,48 @@
-# React + Vite
+📊 Data Analytics & Business Intelligence Dashboard
+A modern Data Analytics and Business Intelligence Dashboard built using React.js. It provides interactive visualizations and KPIs to help analyze business performance and make data-driven decisions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+📈 Interactive charts and graphs
+📊 KPI (Key Performance Indicator) tracking
+📉 Sales and revenue analysis
+🧠 Data-driven insights dashboard
+📁 Clean and structured UI
+🔍 Easy navigation and filtering (if implemented)
+🛠 Tech Stack
+Frontend:
 
-Currently, two official plugins are available:
+React.js
+Chart.js / Recharts / D3.js
+CSS
+Backend (if used):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Node.js
+Express.js
+MongoDB
+📁 Project Structure
+bi-dashboard/ │ ├── frontend/ │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── App.js │ │ ├── App.css │ │ └── index.js │ └── package.json └── README.md
 
-## React Compiler
+⚙️ Installation & Setup
+1. Clone Repository
+git clone https://github.com/Mukunda-art/Data-Analytics-Business-Intelligence-Dashboard
+2. Frontend Setup
+cd frontend npm install npm start
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3. Backend Setup (if applicable)
+cd backend npm install npm run dev
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📊 Dashboard Modules
+Sales Analytics
+Revenue Trends
+User Growth Analytics
+KPI Summary Cards
+Performance Overview
+🚀 Future Improvements
+Real-time data integration
+AI-based predictions
+Advanced filters and sorting
+Export reports (PDF/Excel)
+Authentication system
+👨‍💻 Author
+Name: Jejji Mukunda Project: Data Analytics & Business Intelligence Dashboard
+Type: Internship Project
