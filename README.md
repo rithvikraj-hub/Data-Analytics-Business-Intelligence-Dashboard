@@ -49,7 +49,7 @@ bi-dashboard/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
-git clone https://github.com/Mukunda-art/Data-Analytics-Business-Intelligence-Dashboard
+git clone https://github.com/rithvikraj-hub/Data-Analytics-Business-Intelligence-Dashboard
 ---
 
 ### 2. Frontend Setup
@@ -86,6 +86,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Name: Jejji Mukunda
+Name: Karakambadi Rithvikraj
 Project: Data Analytics & Business Intelligence Dashboard  
 Type: Internship Project  
